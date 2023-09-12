@@ -12,7 +12,7 @@ jobs:
 
     strategy:
         matrix:
-            python-version: [3.x]
+            python-version: [3.9, 3.10]
 
     steps:
     #Code checkout and python setup
@@ -50,4 +50,4 @@ jobs:
       run: |
         export PYTHONPATH=src/app.py
         pytest
-        python tests/run.py
+        python -m tests.run.py
