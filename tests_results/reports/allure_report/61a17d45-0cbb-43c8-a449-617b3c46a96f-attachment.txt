@@ -1,0 +1,62 @@
+9
+Entering the dataframe
+        Sector       Spend
+0         FLNA  7475017114
+1          NAB  1875829392
+2       EUROPE  1230839688
+3        AMESA   583511433
+4       Mexico   512112653
+5  CASA/Brazil   232694244
+6         APAC   222627532
+7         QFNA   127156171
+8      (Blank)           0
+<pyodbc.Connection object at 0x0000024C0FA87DF0>
+        Sector       Spend
+0         FLNA  7475017114
+1          NAB  1875829392
+2       EUROPE  1230839688
+3        AMESA   583511433
+4       Mexico   512112653
+5  CASA/Brazil   232694244
+6         APAC   222627532
+7         QFNA   127156171
+8      (Blank)           0
+Empty DataFrame
+Columns: []
+Index: []
+9
+Entering the dataframe
+     Sector  Sensitivity
+0  28269108        AMESA
+1   7060088          NAB
+2   4466943  CASA/Brazil
+3   2444614       EUROPE
+4    486509         FLNA
+5     96589       Mexico
+6     82116         QFNA
+7         0      (Blank)
+8  -2645767         APAC
+<pyodbc.Connection object at 0x0000024C0FA87DF0>
+     Sector               Sensitivity          
+       self        other         self     other
+0  28269108        AMESA        AMESA  28269108
+1   7060088          NAB          NAB   7060088
+2   4466943  CASA/Brazil  CASA/Brazil   4466943
+3   2444614       EUROPE       EUROPE   2444614
+4    486509         FLNA         FLNA    486509
+5     96589       Mexico       Mexico     96589
+6     82116         QFNA         QFNA     82116
+7         0      (Blank)      (Blank)         0
+8  -2645767         APAC         APAC  -2645767
+8
+Entering the dataframe
+  SectorPriorYear        Spend
+0      6964081936         FLNA
+1      1280736010          NAB
+2        79093294       Mexico
+3        42744610       EUROPE
+4        26369005        AMESA
+5      -214670118         QFNA
+6      -231950408         APAC
+7      -981077710  CASA/Brazil
+<pyodbc.Connection object at 0x0000024C0FA87DF0>

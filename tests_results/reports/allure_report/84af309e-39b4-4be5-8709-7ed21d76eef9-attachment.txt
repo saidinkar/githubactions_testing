@@ -1,0 +1,56 @@
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@name="loginfmt"]"}
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0028A813+48355]
+	(No symbol) [0x0021C4B1]
+	(No symbol) [0x00125358]
+	(No symbol) [0x001509A5]
+	(No symbol) [0x00150B3B]
+	(No symbol) [0x0017E232]
+	(No symbol) [0x0016A784]
+	(No symbol) [0x0017C922]
+	(No symbol) [0x0016A536]
+	(No symbol) [0x001482DC]
+	(No symbol) [0x001493DD]
+	GetHandleVerifier [0x004EAABD+2539405]
+	GetHandleVerifier [0x0052A78F+2800735]
+	GetHandleVerifier [0x0052456C+2775612]
+	GetHandleVerifier [0x003151E0+616112]
+	(No symbol) [0x00225F8C]
+	(No symbol) [0x00222328]
+	(No symbol) [0x0022240B]
+	(No symbol) [0x00214FF7]
+	BaseThreadInitThunk [0x77347D59+25]
+	RtlInitializeExceptionChain [0x77CEB74B+107]
+	RtlClearBits [0x77CEB6CF+191]
+	(No symbol) [0x00000000]
+
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@name="loginfmt"]"}
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0028A813+48355]
+	(No symbol) [0x0021C4B1]
+	(No symbol) [0x00125358]
+	(No symbol) [0x001509A5]
+	(No symbol) [0x00150B3B]
+	(No symbol) [0x0017E232]
+	(No symbol) [0x0016A784]
+	(No symbol) [0x0017C922]
+	(No symbol) [0x0016A536]
+	(No symbol) [0x001482DC]
+	(No symbol) [0x001493DD]
+	GetHandleVerifier [0x004EAABD+2539405]
+	GetHandleVerifier [0x0052A78F+2800735]
+	GetHandleVerifier [0x0052456C+2775612]
+	GetHandleVerifier [0x003151E0+616112]
+	(No symbol) [0x00225F8C]
+	(No symbol) [0x00222328]
+	(No symbol) [0x0022240B]
+	(No symbol) [0x00214FF7]
+	BaseThreadInitThunk [0x77347D59+25]
+	RtlInitializeExceptionChain [0x77CEB74B+107]
+	RtlClearBits [0x77CEB6CF+191]
+	(No symbol) [0x00000000]
+

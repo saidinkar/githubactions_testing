@@ -1,0 +1,54 @@
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='2023']"}
+  (Session info: chrome=115.0.5790.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x003B6E73+48323]
+	(No symbol) [0x00349661]
+	(No symbol) [0x00255308]
+	(No symbol) [0x00280B45]
+	(No symbol) [0x00280CDB]
+	(No symbol) [0x002AE3D2]
+	(No symbol) [0x0029A924]
+	(No symbol) [0x002ACAC2]
+	(No symbol) [0x0029A6D6]
+	(No symbol) [0x0027847C]
+	(No symbol) [0x0027957D]
+	GetHandleVerifier [0x0061FD5D+2575277]
+	GetHandleVerifier [0x0065F86E+2836158]
+	GetHandleVerifier [0x006596DC+2811180]
+	GetHandleVerifier [0x004441B0+626688]
+	(No symbol) [0x0035314C]
+	(No symbol) [0x0034F4B8]
+	(No symbol) [0x0034F59B]
+	(No symbol) [0x003421B7]
+	BaseThreadInitThunk [0x75B07D59+25]
+	RtlInitializeExceptionChain [0x7781B79B+107]
+	RtlClearBits [0x7781B71F+191]
+
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='2023']"}
+  (Session info: chrome=115.0.5790.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x003B6E73+48323]
+	(No symbol) [0x00349661]
+	(No symbol) [0x00255308]
+	(No symbol) [0x00280B45]
+	(No symbol) [0x00280CDB]
+	(No symbol) [0x002AE3D2]
+	(No symbol) [0x0029A924]
+	(No symbol) [0x002ACAC2]
+	(No symbol) [0x0029A6D6]
+	(No symbol) [0x0027847C]
+	(No symbol) [0x0027957D]
+	GetHandleVerifier [0x0061FD5D+2575277]
+	GetHandleVerifier [0x0065F86E+2836158]
+	GetHandleVerifier [0x006596DC+2811180]
+	GetHandleVerifier [0x004441B0+626688]
+	(No symbol) [0x0035314C]
+	(No symbol) [0x0034F4B8]
+	(No symbol) [0x0034F59B]
+	(No symbol) [0x003421B7]
+	BaseThreadInitThunk [0x75B07D59+25]
+	RtlInitializeExceptionChain [0x7781B79B+107]
+	RtlClearBits [0x7781B71F+191]
+

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="145.536" timestamp="2023-08-07T11:31:26.670097" hostname="TIGER03699"><testcase classname="tests.test_openPowerBI.TestPowerBIReport" name="test_report[2023-AJC-Mid Acid-EUROPE-Russia-Europe]" time="145.024" /></testsuite></testsuites>

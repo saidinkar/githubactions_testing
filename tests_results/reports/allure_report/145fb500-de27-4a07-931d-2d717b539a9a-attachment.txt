@@ -1,0 +1,9 @@
+[32mINFO    [0m <module>:openpowerbi_page.py:30 Login into power bi using id
+[32mINFO    [0m <module>:openpowerbi_page.py:42 Login into power bi using encrypted password
+[32mINFO    [0m <module>:openpowerbi_page.py:47 Clicked the extra pop up in login screen
+[32mINFO    [0m <module>:samplepowerbi_page.py:35 Reset Filter
+[32mINFO    [0m <module>:samplepowerbi_page.py:42 Filter the power bi based on filter options
+[32mINFO    [0m <module>:samplepowerbi_page.py:35 Reset Filter
+[32mINFO    [0m <module>:samplepowerbi_page.py:69 Validate Total spend by sector bar graph against SQL
+[32mINFO    [0m <module>:samplepowerbi_page.py:122 validate_Total_Sensitivity_By_sector bar graph against SQL
+[32mINFO    [0m <module>:samplepowerbi_page.py:97 validate_Total_Spend_By_SectorPriorYear bar graph against SQL

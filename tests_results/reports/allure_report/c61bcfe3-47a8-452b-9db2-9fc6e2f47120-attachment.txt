@@ -1,0 +1,26 @@
+9
+Entering the dataframe
+        Sector       Spend
+0         FLNA  7475017114
+1          NAB  1875829392
+2       EUROPE  1230839688
+3        AMESA   583511433
+4       Mexico   512112653
+5  CASA/Brazil   232694244
+6         APAC   222627532
+7         QFNA   127156171
+8      (Blank)           0
+<pyodbc.Connection object at 0x00000198680024C0>
+        Sector       Spend
+0         FLNA  7475017114
+1          NAB  1875829392
+2       EUROPE  1230839688
+3        AMESA   583511433
+4       Mexico   512112653
+5  CASA/Brazil   232694244
+6         APAC   222627532
+7         QFNA   127156171
+8      (Blank)           0
+Empty DataFrame
+Columns: []
+Index: []

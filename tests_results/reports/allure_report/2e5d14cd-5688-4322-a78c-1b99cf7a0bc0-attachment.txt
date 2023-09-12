@@ -1,0 +1,10 @@
+[32mINFO    [0m <module>:openpowerbi_page.py:36 Login into power bi using id
+[32mINFO    [0m <module>:openpowerbi_page.py:42 Login into power bi using encrypted password
+[32mINFO    [0m <module>:openpowerbi_page.py:47 Clicked the extra pop up in login screen
+[32mINFO    [0m <module>:samplepowerbi_page.py:33 Reset Filter
+[32mINFO    [0m <module>:samplepowerbi_page.py:40 Filter the power bi based on filter options
+[32mINFO    [0m <module>:samplepowerbi_page.py:33 Reset Filter
+[32mINFO    [0m <module>:samplepowerbi_page.py:67 Validate Total spend by sector bar graph against SQL
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029178E6FD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b95d766f3c721df9fc7764b56ac5727b/timeouts
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029178E867D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b95d766f3c721df9fc7764b56ac5727b/timeouts
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:812 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029178E6F6A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b95d766f3c721df9fc7764b56ac5727b/timeouts

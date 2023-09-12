@@ -1,0 +1,109 @@
+9
+Entering the dataframe
+        Sector       Spend
+0         FLNA  7475017114
+1          NAB  1875829392
+2       EUROPE  1230839688
+3        AMESA   583511433
+4       Mexico   512112653
+5  CASA/Brazil   232694244
+6         APAC   222627532
+7         QFNA   127156171
+8      (Blank)           0
+<pyodbc.Connection object at 0x000002669C063DF0>
+        Sector       Spend
+0         FLNA  7475017114
+1          NAB  1875829392
+2       EUROPE  1230839688
+3        AMESA   583511433
+4       Mexico   512112653
+5  CASA/Brazil   232694244
+6         APAC   222627532
+7         QFNA   127156171
+8      (Blank)           0
+True
+9
+Entering the dataframe
+        Sector  Sensitivity
+0        AMESA     28269108
+1          NAB      7060088
+2  CASA/Brazil      4466943
+3       EUROPE      2444614
+4         FLNA       486509
+5       Mexico        96589
+6         QFNA        82116
+7      (Blank)            0
+8         APAC     -2645767
+<pyodbc.Connection object at 0x000002669C063DF0>
+True
+DataComPy Comparison
+--------------------
+
+DataFrame Summary
+-----------------
+
+  DataFrame  Columns  Rows
+0       df1        2     9
+1       df2        2     9
+
+Column Summary
+--------------
+
+Number of columns in common: 2
+Number of columns in df1 but not in df2: 0
+Number of columns in df2 but not in df1: 0
+
+Row Summary
+-----------
+
+Matched on: sector
+Any duplicates on match values: No
+Absolute Tolerance: 0
+Relative Tolerance: 0
+Number of rows in common: 9
+Number of rows in df1 but not in df2: 0
+Number of rows in df2 but not in df1: 0
+
+Number of rows with some compared columns unequal: 0
+Number of rows with all compared columns equal: 9
+
+Column Comparison
+-----------------
+
+Number of columns compared with some values unequal: 0
+Number of columns compared with all values equal: 2
+Total number of values which compare unequal: 0
+
+
+8
+Entering the dataframe
+        Sector  SpendPriorYear
+0         FLNA      6964081936
+1          NAB      1280736010
+2       Mexico        79093294
+3       EUROPE        42744610
+4        AMESA        26369005
+5         QFNA      -214670118
+6         APAC      -231950408
+7  CASA/Brazil      -981077710
+<pyodbc.Connection object at 0x000002669C063DF0>
+True
+13
+['Commodity', 'FY Spend', 'Spend (%)', 'Q1', 'Q2', 'Q3', 'Q4', 'FY Volume Coverage\n ', 'Sensitivity On Open Positions', 'Open Spend', 'Planned Spend', 'Covered Price ($/Unit)', 'Guidance Price ($/Unit)']
+17
+        Commodity FY Spend  ... Covered Price ($/Unit) Guidance Price ($/Unit)
+0             AJC     $45M  ...                 $0.01M                  $0.00M
+1            FCOJ     $28M  ...                 $0.01M                  $0.00M
+2           Sugar    $688M  ...                 $0.03M                  $0.03M
+3        Cornmeal    $138M  ...                 $0.00M                  $0.00M
+4            Oats     $80M  ...                 $0.20M                  $0.22M
+5   Vegetable Oil  $1,189M  ...                $27.51M                 $27.48M
+6           Wheat  $7,111M  ...                 $0.20M                  $0.03M
+7            Corn    $415M  ...                 $2.11M                  $2.15M
+8            HFCS    $364M  ...                 $0.01M                  $0.00M
+9      Motor Fuel    $346M  ...                 $0.00M                  $0.00M
+10       PP Resin    $229M  ...                 $0.00M                  $0.00M
+11    Natural Gas     $95M  ...                 $0.00M                  $0.00M
+12       Aluminum    $521M  ...                 $0.03M                  $0.03M
+
+[13 rows x 13 columns]

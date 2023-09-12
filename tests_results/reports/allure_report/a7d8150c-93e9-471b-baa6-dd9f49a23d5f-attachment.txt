@@ -1,0 +1,4 @@
+[32mINFO    [0m <module>:openpowerbi_page.py:30 Login into power bi using id
+[32mINFO    [0m <module>:openpowerbi_page.py:42 Login into power bi using encrypted password
+[32mINFO    [0m <module>:openpowerbi_page.py:47 Clicked the extra pop up in login screen
+[32mINFO    [0m <module>:openpowerbi_page.py:36 Login into power bi using id
